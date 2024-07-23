@@ -1,5 +1,4 @@
-# banco-digital
-public class Main {
+public class bancoDigital {
     public static void main(String[] args) {
         Cliente cliente1 = new Cliente("João Silva", "123.456.789-00");
         Cliente cliente2 = new Cliente("Maria Oliveira", "987.654.321-00");
